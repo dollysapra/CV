@@ -29,13 +29,13 @@ education:
   courses:
     - course: PhD (Egde AI)
       institution: University of Amsterdam
-      year: 2019
+      year: 2020
     - course: M.Eng in Computer Science
       institution: BITS Pilani, India
-      year: 2004
+      year: 2005
     - course: B.Tech. in Computer Science and Engineering
-      institution: IP University
-      year: 2000
+      institution: IP University, Delhi, Indoa
+      year: 2002
 superuser: true
 status:
   icon: ☕️
