@@ -1,7 +1,7 @@
 ---
 title: Dolly Sapra
 role: Post-doctoral Researcher
-avatar_filename: ./me.jpg
+avatar_filename: me.jpg
 bio: ""
 interests:
   - Neural Architectures
@@ -39,9 +39,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Sapra
 highlight_name: true
-first_name: Alice
+first_name: Dolly
 email: d.sapra@uva.nl
 ---
 I am a Post-doctoral Researcher at the [Parallel Computing Systems](pcs-research.nl) group in [University of Amsterdam.](uva.nl) My research focus is on neural architectures for edge devices.
