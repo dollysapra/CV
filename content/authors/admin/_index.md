@@ -2,8 +2,7 @@
 title: Dolly Sapra
 role: Post-doctoral Researcher
 avatar_filename: me.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Neural Architectures
   - Smart Edge Devices
