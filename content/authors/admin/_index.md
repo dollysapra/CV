@@ -32,7 +32,7 @@ education:
       year: 2022
     - course: M.Eng in Computer Science
       institution: BITS Pilani, India
-      year: 2011
+      year: 2007
     - course: B.Tech. in Computer Science and Engineering
       institution: IP University, Delhi, Indoa
       year: 2005
