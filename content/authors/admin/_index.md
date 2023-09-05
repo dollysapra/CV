@@ -1,7 +1,7 @@
 ---
 title: Dolly Sapra
 role: Post-doctoral Researcher
-avatar_filename: me2.jpeg
+avatar_filename: me.jpg
 bio: ""
 interests:
   - Neural Architectures
